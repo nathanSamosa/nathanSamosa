@@ -2,7 +2,7 @@
 
 ---
 
-<div display="flex" gap="50px">
+<div display="flex" align="center">
     <img height="100px" object-fit="contain" src="./assets/html.png"/>
     <img height="100px" object-fit="contain" src="./assets/css.png"/>
     <img height="100px" object-fit="contain" src="./assets/js.png"/>
