@@ -3,9 +3,9 @@
 ---
 
 <div display="flex">
-<img height="100px" width="200px" objectFit="contain" src="./assets/html-white.png" />
-<img height="100px" width="200px" objectFit="contain" src="./assets/css-white.png" />
-<img height="100px" width="200px" objectFit="contain" src="./assets/js-white.png" />
+ <span width="100px"><img height="100px" object-fit="contain" src="./assets/html-white.png" /></span>
+ <span width="100px"><img height="100px" object-fit="contain" src="./assets/css-white.png" /></span>
+ <span width="100px"><img height="100px" object-fit="contain" src="./assets/js-white.png" /></span>
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original-wordmark.svg" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
