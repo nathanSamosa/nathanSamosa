@@ -3,14 +3,15 @@
 ---
 
 <div display="flex">
-<p width="200px"><img height="100px" object-fit="contain" src="./assets/html-white.png" /></p>
-<p width="200px"><img height="100px" object-fit="contain" src="./assets/css-white.png" /></p>
-<p width="200px"><img height="100px" object-fit="contain" src="./assets/js-white.png" /></p>
-<img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original-wordmark.svg" />
-<img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <p width="200px">
+    <img height="100px" object-fit="contain" src="./assets/html-white.png"/>
+  </p>
+  <p width="200px">
+    <img height="100px" object-fit="contain" src="./assets/css-white.png"/>
+  </p>
+  <p width="200px">
+    <img height="100px" object-fit="contain" src="./assets/js-white.png"/>
+  </p>
 </div>
 
 ---
