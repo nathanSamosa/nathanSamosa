@@ -3,15 +3,14 @@
 ---
 
 <div display="flex">
-  <p width="200px">
+
     <img height="100px" object-fit="contain" src="./assets/html-white.png"/>
-  </p>
-  <p width="200px">
+
+
     <img height="100px" object-fit="contain" src="./assets/css-white.png"/>
-  </p>
-  <p width="200px">
+
     <img height="100px" object-fit="contain" src="./assets/js-white.png"/>
-  </p>
+
 </div>
 
 ---
