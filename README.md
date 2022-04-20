@@ -3,9 +3,9 @@
 ---
 
 <div display="flex">
-<img height="75px" src="./assets/html-white.png" />
-<img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="100px" src="./assets/html-white.png" />
+<img height="100px" src="./assets/css-white.png" />
+<img height="100px" src="./assets/js-white.png" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original-wordmark.svg" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
