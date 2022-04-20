@@ -1,6 +1,7 @@
-<h1 text-align="center">Hi I'm Nathan</h1>
+<h1>Hi I'm Nathan</h1>
 
 ---
+
 <div display="flex">
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
