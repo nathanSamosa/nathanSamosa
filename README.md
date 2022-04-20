@@ -3,7 +3,7 @@
 ---
 
 <div display="flex">
-<img height="75px" src="./assets/html.png" />
+<img height="75px" src="./assets/html-white.png" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
