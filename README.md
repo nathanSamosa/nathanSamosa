@@ -1,3 +1,9 @@
+<style>
+  * {
+  color: red
+  }
+ </style>
+
 <h1>Hi I'm Nathan</h1>
 
 ---
