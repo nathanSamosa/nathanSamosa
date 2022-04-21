@@ -21,4 +21,4 @@
 
 <h2 align="center">Check out some of my projects...</h2>
 
-- <h3>[!Project Manager](https://github.com/nathanSamosa/project-manager)</h3>
+- <h3>[Project Manager](https://github.com/nathanSamosa/project-manager)</h3>
