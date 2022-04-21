@@ -33,4 +33,5 @@
 - REST api allowing for encrypted user registration and authentication, and securing personal info across the app
 
 [Repo](https://github.com/nathanSamosa/project-manager)
+
 [Live demo on youtube](https://www.youtube.com/watch?v=mmu9AQBb0KU)
