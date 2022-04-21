@@ -21,8 +21,20 @@
 
 <h2 align="center">Check out some of my projects...</h2>
 
-- <h3>Project Manager</h3>
-[Repo](https://github.com/nathanSamosa/project-manager)
+<h3>Project Manager</h3>
+<ul>
+    <li>[Repo](https://github.com/nathanSamosa/project-manager)</li>
+    <li>Built using:
+        <ul>
+            <li>React</li>
+            <li>NodeJS</li>
+            <li>Express</li>
+            <li>PostgreSQL</li>
+        </ul>
+    </li>
+</ul>
+
+
     * Built using:
         - React
         - NodeJS
