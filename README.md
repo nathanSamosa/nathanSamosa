@@ -23,4 +23,3 @@
 
  - <h3>Project Manager</h3>
 [Repo](https://github.com/nathanSamosa/project-manager)
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
