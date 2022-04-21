@@ -19,4 +19,6 @@
 
 ---
 
-<h3>Check out some of my projects...</h3>
+<h2 align="center">Check out some of my projects...</h2>
+
+- <h4>Project Manager</h4>
