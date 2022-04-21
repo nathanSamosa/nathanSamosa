@@ -25,8 +25,10 @@
 <ul>
     <li>[Repo](https://github.com/nathanSamosa/project-manager)</li>
     <li>Built using:
-        <tr>
-            <td>React</td><td>NodeJS</td><td>Express</td><td>PostgreSQL</td>
-        </tr>
+        <table>
+            <tr>
+                <td>React</td><td>NodeJS</td><td>Express</td><td>PostgreSQL</td>
+            </tr>
+        </table>
     </li>
 </ul>
