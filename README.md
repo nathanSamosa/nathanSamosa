@@ -21,4 +21,5 @@
 
 <h2 align="center">Check out some of my projects...</h2>
 
-- [<h3>Project Manager</h3>](https://github.com/nathanSamosa/project-manager)
+ - <h3>Project Manager</h3>
+     - [Repo](https://github.com/nathanSamosa/project-manager)
