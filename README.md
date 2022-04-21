@@ -27,4 +27,5 @@
         <td>React</td><td>NodeJS</td><td>Express</td><td>PostgreSQL</td>
     </tr>
 </table>
-test [Repo](https://github.com/nathanSamosa/project-manager)
+
+[Repo](https://github.com/nathanSamosa/project-manager)
