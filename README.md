@@ -33,10 +33,3 @@
         </ul>
     </li>
 </ul>
-
-
-    * Built using:
-        - React
-        - NodeJS
-        - Express
-        - PostgreSQL
