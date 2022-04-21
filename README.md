@@ -23,7 +23,7 @@
 
 - <h3>Project Manager</h3>
 [Repo](https://github.com/nathanSamosa/project-manager)
-    > Built using:
+    * Built using:
         - React
         - NodeJS
         - Express
