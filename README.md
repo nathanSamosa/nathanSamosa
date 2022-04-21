@@ -19,3 +19,4 @@
 
 ---
 
+<h3>Check out some of my projects...</h3>
