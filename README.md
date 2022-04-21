@@ -27,6 +27,7 @@
         <td>React</td><td>NodeJS</td><td>Express</td><td>PostgreSQL</td>
     </tr>
 </table>
+
 - A full-stack web application built in less than two weeks
 - Utilises smooth drag-and-drop features that efficiently communicate with both the client and server
 - REST api allowing for encrypted user registration and authentication, and securing personal info across the app
