@@ -22,13 +22,11 @@
 <h2 align="center">Check out some of my projects...</h2>
 
 <h3>Project Manager</h3>
+<table>
+    <tr>
+        <td>React</td><td>NodeJS</td><td>Express</td><td>PostgreSQL</td>
+    </tr>
+</table>
 <ul>
     <li>[Repo](https://github.com/nathanSamosa/project-manager)</li>
-    <li>Built using:
-        <table>
-            <tr>
-                <td>React</td><td>NodeJS</td><td>Express</td><td>PostgreSQL</td>
-            </tr>
-        </table>
-    </li>
 </ul>
