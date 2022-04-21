@@ -24,7 +24,7 @@
 <h3>Project Manager</h3>
 <table>
     <tr>
-        <td>React</td><td>NodeJS</td><td>Express</td><td>PostgreSQL</td>
+        <td>React</td><td>NodeJS</td><td>Prisma & Express</td><td>PostgreSQL</td>
     </tr>
 </table>
 
